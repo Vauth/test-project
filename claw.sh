@@ -1,9 +1,5 @@
 #!/bin/bash
 
-# Install apt packages
-apt update
-apt install python3 python3-pip -y
-
 # Remove cache
 rm -rf fastapi
 
