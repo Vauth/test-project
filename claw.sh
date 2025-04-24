@@ -10,7 +10,7 @@ git clone https://github.com/Vauth/fastapi
 cd fastapi || exit
 
 # Install required Python packages
-pip3 install -r requirements.txt
+pip3 install -r requirements.txt --break-system-packages
 
 # Run the FastAPI application
 python3 fast.py
