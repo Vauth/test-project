@@ -1,7 +1,6 @@
 #!/bin/bash
 
-git clone --branch python https://github.com/EverythingSuckz/TG-FileStreamBot FileStream
-cd FileStream
-pip3 install python-dotenv --break-system-packages
+git clone https://github.com/CodeXBotz/File-Sharing-Bot
+cd File-Sharing-Bot
 pip3 install -r requirements.txt --break-system-packages
-python3 -m WebStreamer
+python3 main.py
