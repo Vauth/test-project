@@ -1,6 +1,6 @@
 #!/bin/bash
 
-git clone  ttps://github.com/EverythingSuckz/TG-FileStreamBot/tree/python FileStream
+git clone --branch python https://github.com/EverythingSuckz/TG-FileStreamBot FileStream
 cd FileStream
 pip3 install -r requirements.txt --break-system-packages
 python3 -m WebStreamer
