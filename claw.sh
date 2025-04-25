@@ -1,8 +1,8 @@
 #!/bin/bash
 
-git clone https://github.com/adarsh-goel/Filestreambot-pro
+git clone https://github.com/Aadhi000/File-To-Link
 
-cd Filestreambot-pro
+cd File-To-Link
 
 pip3 install -r requirements.txt --break-system-packages
 
