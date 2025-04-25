@@ -1,6 +1,6 @@
 #!/bin/bash
 
-git clone https://github.com/fyaz05/FileToLink
-cd FileToLink
+git clone https://github.com/EverythingSuckz/TG-FileStreamBot
+cd TG-FileStreamBot
 pip3 install -r requirements.txt --break-system-packages
-python3 -m Thunder
+python3 -m WebStreamer
