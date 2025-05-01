@@ -1,4 +1,4 @@
-git clone https://github.com/SpringsFern/TG-FileStreamBot
-cd TG-FileStreamBot
+git clone https://github.com/anasty17/mirror-leech-telegram-bot
+cd mirror-leech-telegram-bot
 pip3 install -r requirements.txt --break-system-packages
-python3 -m WebStreamer
+python3 -m bot
